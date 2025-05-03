@@ -29,7 +29,8 @@ Problema1002.ext
 | 1011   | Esfera                           | ✅ Feito |
 | 1012   | Área                             | ✅ Feito |
 | 1013   | O Maior                          | ✅ Feito |
-| 1014   | Consumo                          | ⬜ Em andamento |
+| 1014   | Consumo                          | ✅ Feito |
+| 1015   | Distância Entre Dois Pontos      | ⬜ Em andamento |
 
 
 ## Motivação
