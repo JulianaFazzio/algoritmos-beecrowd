@@ -30,7 +30,8 @@ Problema1002.ext
 | 1012   | Área                             | ✅ Feito |
 | 1013   | O Maior                          | ✅ Feito |
 | 1014   | Consumo                          | ✅ Feito |
-| 1015   | Distância Entre Dois Pontos      | ⬜ Em andamento |
+| 1015   | Distância Entre Dois Pontos      | ✅ Feito |
+| 1016   | Distância                        | ⬜ Em andamento |
 
 
 ## Motivação
