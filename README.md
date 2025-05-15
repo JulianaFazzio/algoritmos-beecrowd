@@ -33,7 +33,8 @@ Problema1002.ext
 | 1015   | Distância Entre Dois Pontos      | ✅ Feito |
 | 1016   | Distância                        | ✅ Feito |
 | 1017   | Gasto de Combustível             | ✅ Feito |
-| 1018   | Cédulas                         | ⬜ Em andamento |
+| 1018   | Cédulas                          | ✅ Feito |
+| 1019   | Conversão de Tempo               | ⬜ Em andamento |
 
 ## Motivação
 Este repositório é parte do meu estudo diário de lógica de programação e algoritmos. Compartilho aqui para acompanhar meu progresso e também ajudar outros estudantes que estão aprendendo.
