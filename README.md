@@ -35,7 +35,8 @@ Problema1002.ext
 | 1017   | Gasto de Combustível             | ✅ Feito |
 | 1018   | Cédulas                          | ✅ Feito |
 | 1019   | Conversão de Tempo               | ✅ Feito |
-| 1020   | 	Idade em Dias                   | ⬜ Em andamento |
+| 1020   | Idade em Dias                    | ✅ Feito |
+| 1021   | Notas e Moedas                   | ⬜ Em andamento |
 
 ## Motivação
 Este repositório é parte do meu estudo diário de lógica de programação e algoritmos. Compartilho aqui para acompanhar meu progresso e também ajudar outros estudantes que estão aprendendo.
